@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-#  Parsing to produce biopsy detail file for Doug
+#  Parsing to produce biopsy detail file
 
 print "\nEnter file name\n";
 $input_file = <STDIN>;
